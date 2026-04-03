@@ -1,4 +1,6 @@
 rencana belajar laravel
 -memahami php native
+membuat project" 
+menonton tutorial
 -oop 
 -dll
