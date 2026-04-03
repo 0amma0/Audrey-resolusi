@@ -3,5 +3,5 @@ Audrey resolusi
 - membuat project berguna 1 bulan satu project (namun jika project susah bisa di bereskan lebih dari itu )
 - latihan speaking english learning everyday and listening 
 - meningkatkan fundalmental pemograman 
-- belajar laravel 
 - membuat usaha cokobell
+- membuat project dengan laravel
